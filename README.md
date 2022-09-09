@@ -1,6 +1,8 @@
 # lncRNA_Prediction_Interpretation
 Notebooks, Data and Scripts for lncRNA Prediction &amp; Interpretation
 
+Preprint: https://doi.org/10.1101/2022.02.09.479647 
+
 Each folder is for a given crop.
 at = Arabidopsis thaliana
 bn = Brassica napus
